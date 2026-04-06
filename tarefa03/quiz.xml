@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz versao="1.0">
+  <disciplina>Química</disciplina>
+  <professor>
+    <nome>Mano Walter</nome>
+    <matrícula>20230042</matrícula>
+  </professor>
+  <turma>Infoweb 2024.1</turma>
+  <data>2024-07-04</data>
+  <questões>
+
+    <questão>
+      <enunciado>A água pura é considerada um composto químico?</enunciado>
+      <pontuação>10</pontuação>
+      <alternativas>
+        <alternativa correta="sim">Sim, pois é formada por dois elementos: hidrogênio e oxigênio.</alternativa>
+        <alternativa correta="nao">Não, pois é uma substância simples formada por um único elemento.</alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado>Em uma reação química, a massa dos reagentes é sempre igual à massa dos produtos?</enunciado>
+      <pontuação>10</pontuação>
+      <alternativas>
+        <alternativa correta="sim">Sim, conforme a Lei de Lavoisier: a massa se conserva.</alternativa>
+        <alternativa correta="nao">Não, parte da massa é convertida em energia durante a reação.</alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado>Qual é a definição correta de número atômico de um elemento químico?</enunciado>
+      <pontuação>5</pontuação>
+      <alternativas>
+        <alternativa correta="sim">É a quantidade de prótons no núcleo do átomo.</alternativa>
+        <alternativa correta="nao">É a soma de prótons e nêutrons no núcleo do átomo.</alternativa>
+        <alternativa correta="nao">É a quantidade de elétrons na camada de valência.</alternativa>
+        <alternativa correta="nao">É a massa total do átomo expressa em unidades de massa atômica.</alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado>Sobre as ligações químicas, qual afirmação está correta?</enunciado>
+      <pontuação>10</pontuação>
+      <alternativas>
+        <alternativa correta="nao">A ligação iônica ocorre entre dois átomos que compartilham elétrons igualmente.</alternativa>
+        <alternativa correta="sim">A ligação iônica ocorre por transferência de elétrons entre átomos de metais e não metais.</alternativa>
+        <alternativa correta="nao">A ligação covalente ocorre exclusivamente entre metais.</alternativa>
+        <alternativa correta="nao">A ligação metálica ocorre entre átomos de não metais com alta eletronegatividade.</alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado>Um estudante mistura vinagre (ácido acético) com bicarbonato de sódio e observa a liberação de gás. Sobre essa reação, é correto afirmar:</enunciado>
+      <pontuação>10</pontuação>
+      <alternativas>
+        <alternativa correta="nao">Trata-se de uma reação de síntese, pois dois reagentes formam um único produto.</alternativa>
+        <alternativa correta="nao">É uma reação de combustão, pois há liberação de energia na forma de calor.</alternativa>
+        <alternativa correta="sim">É uma reação de neutralização entre um ácido e uma base, com liberação de CO₂.</alternativa>
+        <alternativa correta="nao">É uma reação endotérmica, pois absorve energia do ambiente para ocorrer.</alternativa>
+      </alternativas>
+    </questão>
+
+  </questões>
+</quiz>

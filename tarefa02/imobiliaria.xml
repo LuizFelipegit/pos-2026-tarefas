@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imobiliaria [
+  <!ELEMENT imobiliaria (imovel+)>
+  <!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+  <!ELEMENT proprietario (nome, (email | telefone)+)>
+  <!ELEMENT endereco (rua, bairro, cidade, numero?)>
+  <!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+  <!ELEMENT descricao (#PCDATA)>
+  <!ELEMENT nome (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT telefone (#PCDATA)>
+  <!ELEMENT rua (#PCDATA)>
+  <!ELEMENT bairro (#PCDATA)>
+  <!ELEMENT cidade (#PCDATA)>
+  <!ELEMENT numero (#PCDATA)>
+  <!ELEMENT tamanho (#PCDATA)>
+  <!ELEMENT numQuartos (#PCDATA)>
+  <!ELEMENT numBanheiros (#PCDATA)>
+  <!ELEMENT valor (#PCDATA)>
+]>
+<imobiliaria>
+
+ 
+  <imovel>
+    <descricao>Casa espaçosa com jardim e garagem.</descricao>
+    <proprietario>
+      <nome>felipe</nome>
+      <email>felipe@email.com</email>
+      <telefone>(84) 99111-2233</telefone>
+      <telefone>(84) 98222-3344</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua das Flores</rua>
+      <bairro>Petrópolis</bairro>
+      <cidade>Natal</cidade>
+      <numero>145</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>180m²</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 650.000,00</valor>
+  </imovel>
+
+  
+  <imovel>
+    <descricao>Apartamento moderno no centro.</descricao>
+    <proprietario>
+      <nome>Fernanda Oliveira Costa</nome>
+      <telefone>(84) 99333-5566</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Avenida Rio Branco</rua>
+      <bairro>Cidade Alta</bairro>
+      <cidade>Natal</cidade>
+      <numero>302</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>75m²</tamanho>
+      <numQuartos>2</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 280.000,00</valor>
+  </imovel>
+
+  
+  <imovel>
+    <descricao>Terreno amplo em área </descricao>
+    <proprietario>
+      <nome>Marcos suza</nome>
+      <email>marcos.souza@correio.com</email>
+    </proprietario>
+    <endereco>
+      <rua>Estrada da Redinha</rua>
+      <bairro>Redinha</bairro>
+      <cidade>Natal</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>500m²</tamanho>
+      <numQuartos>0</numQuartos>
+      <numBanheiros>0</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 120.000,00</valor>
+  </imovel>
+
+ 
+  <imovel>
+    <descricao>Casa de praia com vista para o mar, varanda e piscina .</descricao>
+    <proprietario>
+      <nome>artur ocha</nome>
+      <email>artur@gmail.com</email>
+      <telefone>(84) 99444-7788</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua do Sol</rua>
+      <bairro>Ponta Negra</bairro>
+      <cidade>Natal</cidade>
+      <numero>28</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>220m²</tamanho>
+      <numQuartos>5</numQuartos>
+      <numBanheiros>4</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 1.200.000,00</valor>
+  </imovel>
+
+  
+  <imovel>
+    <descricao>Studio compacto e funcional, perfeito para universitários ou solteiros.</descricao>
+    <proprietario>
+      <nome>Roberto Lima Araújo</nome>
+      <email>roberto.araujo@ifrn.br</email>
+    </proprietario>
+    <endereco>
+      <rua>Rua Apodi</rua>
+      <bairro>Tirol</bairro>
+      <cidade>Natal</cidade>
+      <numero>77</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>35m²</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 155.000,00</valor>
+  </imovel>
+
+</imobiliaria>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliaria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="imobiliaria.xsd">
+
+  
+  <imovel>
+    <descricao>Casa ampla com quintal e garagem coberta</descricao>
+    <proprietario>
+      <nome>Igor Murilo</nome>
+      <email>igormurilo@email.com</email>
+      <telefone>84991112233</telefone>
+      <telefone>84933334455</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua Princesa Isabel</rua>
+      <bairro>Tirol</bairro>
+      <cidade>Natal</cidade>
+      <numero>215</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>180.50</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>320000.00</valor>
+  </imovel>
+
+
+  <imovel>
+    <descricao>Apartamento proximo a universidade federal</descricao>
+    <proprietario>
+      <nome>Murilo Diego</nome>
+      <telefone>84988776655</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Av. Salgado Filho</rua>
+      <bairro>Lagoa Nova</bairro>
+      <cidade>Natal</cidade>
+      <numero>480</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>65.00</tamanho>
+      <numQuartos>2</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>155000.00</valor>
+  </imovel>
+
+  
+  <imovel>
+    <descricao>Sitio com area verde e acesso a estrada vicinal</descricao>
+    <proprietario>
+      <nome>Diego Cirilo</nome>
+      <email>diegocirilo@email.com</email>
+      <telefone>84977665544</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Estrada do Sitio Novo</rua>
+      <bairro>Zona Rural</bairro>
+      <cidade>Caico</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>4500.00</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>470000.00</valor>
+  </imovel>
+
+  
+  <imovel>
+    <descricao>Casa de praia com varada e vista para as dunas</descricao>
+    <proprietario>
+      <nome>Carlos Eduardo</nome>
+      <email>carloseduardo@email.com</email>
+      <telefone>84996667788</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua das Dunas</rua>
+      <bairro>Ponta Negra</bairro>
+      <cidade>Natal</cidade>
+      <numero>310</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>210.00</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>740000.00</valor>
+  </imovel>
+
+ 
+  <imovel>
+    <descricao>Kitnet mobiliada no centro da cidade</descricao>
+    <proprietario>
+      <nome> Eduardo</nome>
+      <telefone>84981234567</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua Coronel Cascudo</rua>
+      <bairro>Centro</bairro>
+      <cidade>Mossoro</cidade>
+      <numero>77</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>38.00</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>90000.00</valor>
+  </imovel>
+
+</imobiliaria>

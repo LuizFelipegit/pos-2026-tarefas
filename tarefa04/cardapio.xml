@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="cardapio.xsd">
+
+  <prato id="1">
+    <nome>Baiao de Dois</nome>
+    <descricao>Arroz com feijao verde, queijo coalho e carne seca desfiada</descricao>
+    <ingredientes>
+      <ingrediente>Arroz</ingrediente>
+      <ingrediente>Feijao verde</ingrediente>
+      <ingrediente>Carne seca</ingrediente>
+      <ingrediente>Queijo coalho</ingrediente>
+      <ingrediente>Manteiga de garrafa</ingrediente>
+    </ingredientes>
+    <preco>22.50</preco>
+    <calorias>610</calorias>
+    <tempoPreparo>40 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="2">
+    <nome>Carne de Sol com Macaxeira</nome>
+    <descricao>Carne de sol grelhada servida com macaxeira cozida e manteiga</descricao>
+    <ingredientes>
+      <ingrediente>Carne de sol</ingrediente>
+      <ingrediente>Macaxeira</ingrediente>
+      <ingrediente>Manteiga de garrafa</ingrediente>
+      <ingrediente>Alho</ingrediente>
+    </ingredientes>
+    <preco>35.00</preco>
+    <calorias>720</calorias>
+    <tempoPreparo>50 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="3">
+    <nome>Buchada de Bode</nome>
+    <descricao>Prato tipico nordestino feito com miudos de bode temperados e cozidos</descricao>
+    <ingredientes>
+      <ingrediente>Miudos de bode</ingrediente>
+      <ingrediente>Coentro</ingrediente>
+      <ingrediente>Cebola</ingrediente>
+      <ingrediente>Alho</ingrediente>
+      <ingrediente>Pimenta</ingrediente>
+    </ingredientes>
+    <preco>28.00</preco>
+    <calorias>480</calorias>
+    <tempoPreparo>1 hora e 30 minutos</tempoPreparo>
+  </prato>
+
+</cardapio>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imobiliaria>
+
+    <imovel>
+        <descricao>Casa ampla com area de lazer e churrasqueira.</descricao>
+        <proprietario>
+            <nome>Juliana Costa</nome>
+            <email>juliana@email.com</email>
+            <telefone>(84) 98822-3344</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Felipe Camarao</rua>
+            <bairro>Abolicao</bairro>
+            <cidade>Mossoro</cidade>
+            <numero>210</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>160m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 420.000,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Apartamento compacto e bem localizado.</descricao>
+        <proprietario>
+            <nome>Rafael Gomes</nome>
+            <telefone>(84) 99111-2233</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Presidente Dutra</rua>
+            <bairro>Centro</bairro>
+            <cidade>Mossoro</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>60m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 250.000,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Terreno grande em area residencial tranquila.</descricao>
+        <proprietario>
+            <nome>Bruno Henrique</nome>
+            <email>bruno@obra.com</email>
+            <telefone>(84) 98777-6666</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Projetada</rua>
+            <bairro>Santa Delmira</bairro>
+            <cidade>Mossoro</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>450m²</tamanho>
+            <numQuartos>0</numQuartos>
+            <numBanheiros>0</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 95.000,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Sala comercial ideal para escritorio pequeno.</descricao>
+        <proprietario>
+            <nome>Patricia Lima</nome>
+            <email>patricia@empresa.com</email>
+        </proprietario>
+        <endereco>
+            <rua>Rua Santos Dumont</rua>
+            <bairro>Centro</bairro>
+            <cidade>Mossoro</cidade>
+            <numero>55</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>40m²</tamanho>
+            <numQuartos>0</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 180.000,00</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Cobertura de luxo com vista privilegiada.</descricao>
+        <proprietario>
+            <nome>Eduardo Martins</nome>
+            <email>eduardo@luxo.com</email>
+            <telefone>(84) 99988-7777</telefone>
+            <telefone>(84) 98877-6666</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Joao Cordeiro</rua>
+            <bairro>Nova Betania</bairro>
+            <cidade>Mossoro</cidade>
+            <numero>12</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>300m²</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 1.200.000,00</valor>
+    </imovel>
+
+</imobiliaria>

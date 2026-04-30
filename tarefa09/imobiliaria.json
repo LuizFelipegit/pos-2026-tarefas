@@ -1,0 +1,115 @@
+{
+  "imobiliaria": {
+    "imoveis": [
+      {
+        "descricao": "Casa ampla com area de lazer e churrasqueira, perfeita para familia.",
+        "proprietario": {
+          "nome": "Juliana Costa",
+          "email": "juliana@email.com",
+          "telefones": [
+            "(84) 98822-3344"
+          ]
+        },
+        "endereco": {
+          "rua": "Rua Felipe Camarao",
+          "bairro": "Abolicao",
+          "cidade": "Mossoro",
+          "numero": 210
+        },
+        "caracteristicas": {
+          "tamanho": "160m²",
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": "R$ 420.000,00"
+      },
+      {
+        "descricao": "Apartamento compacto e bem localizado.",
+        "proprietario": {
+          "nome": "Rafael Gomes",
+          "email": null,
+          "telefones": [
+            "(84) 99111-2233"
+          ]
+        },
+        "endereco": {
+          "rua": "Avenida Presidente Dutra",
+          "bairro": "Centro",
+          "cidade": "Mossoro",
+          "numero": null
+        },
+        "caracteristicas": {
+          "tamanho": "60m²",
+          "numQuartos": 2,
+          "numBanheiros": 1
+        },
+        "valor": "R$ 250.000,00"
+      },
+      {
+        "descricao": "Terreno grande em area residencial tranquila.",
+        "proprietario": {
+          "nome": "Bruno Henrique",
+          "email": "bruno@obra.com",
+          "telefones": [
+            "(84) 98777-6666"
+          ]
+        },
+        "endereco": {
+          "rua": "Rua Projetada",
+          "bairro": "Santa Delmira",
+          "cidade": "Mossoro",
+          "numero": null
+        },
+        "caracteristicas": {
+          "tamanho": "450m²",
+          "numQuartos": 0,
+          "numBanheiros": 0
+        },
+        "valor": "R$ 95.000,00"
+      },
+      {
+        "descricao": "Sala comercial ideal para escritorio pequeno.",
+        "proprietario": {
+          "nome": "Patricia Lima",
+          "email": "patricia@empresa.com",
+          "telefones": []
+        },
+        "endereco": {
+          "rua": "Rua Santos Dumont",
+          "bairro": "Centro",
+          "cidade": "Mossoro",
+          "numero": 55
+        },
+        "caracteristicas": {
+          "tamanho": "40m²",
+          "numQuartos": 0,
+          "numBanheiros": 1
+        },
+        "valor": "R$ 180.000,00"
+      },
+      {
+        "descricao": "Cobertura de luxo com vista privilegiada.",
+        "proprietario": {
+          "nome": "Eduardo Martins",
+          "email": "eduardo@luxo.com",
+          "telefones": [
+            "(84) 99988-7777",
+            "(84) 98877-6666"
+          ]
+        },
+        "endereco": {
+          "rua": "Rua Joao Cordeiro",
+          "bairro": "Nova Betania",
+          "cidade": "Mossoro",
+          "numero": 12
+        },
+        "caracteristicas": {
+          "tamanho": "300m²",
+          "numQuartos": 4,
+          "numBanheiros": 3
+        },
+        "valor": "R$ 1.200.000,00"
+      }
+    ]
+  }
+}

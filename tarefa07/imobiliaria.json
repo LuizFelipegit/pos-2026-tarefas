@@ -1,0 +1,102 @@
+{
+  "imobiliária": {
+    "imovel": [
+      {
+        "descricao": "Casa ampla com área gourmet e garagem para 3 carros",
+        "proprietario": {
+          "nome": "Lucas Ferreira",
+          "telefone": ["98888-1234", "97777-5678"],
+          "email": "lucas@email.com"
+        },
+        "endereco": {
+          "rua": "Rua das Palmeiras",
+          "bairro": "Centro",
+          "cidade": "Mossoró"
+        },
+        "caracteristicas": {
+          "tamanho": 220,
+          "numQuartos": 4,
+          "numBanheiros": 3
+        },
+        "valor": 480000
+      },
+      {
+        "descricao": "Apartamento moderno com vista para o mar",
+        "proprietario": {
+          "nome": "Ana Costa",
+          "telefone": "96666-2222"
+        },
+        "endereco": {
+          "rua": "Avenida Atlântica",
+          "bairro": "Praia",
+          "cidade": "Areia Branca",
+          "número": 300
+        },
+        "caracteristicas": {
+          "tamanho": 90,
+          "numQuartos": 2,
+          "numBanheiros": 2
+        },
+        "valor": 350000
+      },
+      {
+        "descricao": "Casa simples em rua tranquila",
+        "proprietario": {
+          "nome": "Marcos Oliveira",
+          "email": "marcos@email.com"
+        },
+        "endereco": {
+          "rua": "Rua das Mangueiras",
+          "bairro": "Alto de São Manoel",
+          "cidade": "Mossoró",
+          "número": 120
+        },
+        "caracteristicas": {
+          "tamanho": 130,
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": 200000
+      },
+      {
+        "descricao": "Apartamento pequeno e bem localizado",
+        "proprietario": {
+          "nome": "Juliana Rocha",
+          "telefone": "95555-3333",
+          "email": "juliana@email.com"
+        },
+        "endereco": {
+          "rua": "Rua Coronel Gurgel",
+          "bairro": "Centro",
+          "cidade": "Mossoró",
+          "número": 150
+        },
+        "caracteristicas": {
+          "tamanho": 65,
+          "numQuartos": 1,
+          "numBanheiros": 1
+        },
+        "valor": 170000
+      },
+      {
+        "descricao": "Casa de alto padrão com piscina e jardim",
+        "proprietario": {
+          "nome": "Eduardo Santos",
+          "telefone": ["94444-7777", "93333-8888"]
+        },
+        "endereco": {
+          "rua": "Avenida Litorânea",
+          "bairro": "Costa e Silva",
+          "cidade": "Mossoró",
+          "número": 800
+        },
+        "caracteristicas": {
+          "tamanho": 380,
+          "numQuartos": 5,
+          "numBanheiros": 4
+        },
+        "valor": 1350000
+      }
+    ]
+  }
+}

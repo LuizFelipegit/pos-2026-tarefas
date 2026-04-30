@@ -1,0 +1,76 @@
+{
+  "quiz": {
+    "versao": "1.0",
+    "disciplina": "Informática",
+    "professor": {
+      "nome": "Ana Pereira",
+      "matrícula": "123456"
+    },
+    "turma": "2º Ano B",
+    "data": "2026-04-01",
+    "questões": {
+      "questão": [
+        {
+          "enunciado": "O que é HTML?",
+          "pontuação": "2",
+          "alternativas": {
+            "alternativa": [
+              { "texto": "Uma linguagem de programação", "correta": "nao" },
+              { "texto": "Uma linguagem de marcação para páginas web", "correta": "sim" },
+              { "texto": "Um banco de dados", "correta": "nao" },
+              { "texto": "Um sistema operacional", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "Para que serve o CSS?",
+          "pontuação": "2",
+          "alternativas": {
+            "alternativa": [
+              { "texto": "Executar códigos", "correta": "nao" },
+              { "texto": "Estilizar páginas web", "correta": "sim" },
+              { "texto": "Armazenar dados", "correta": "nao" },
+              { "texto": "Criar bancos de dados", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "O que significa a sigla URL?",
+          "pontuação": "2",
+          "alternativas": {
+            "alternativa": [
+              { "texto": "Uniform Resource Locator", "correta": "sim" },
+              { "texto": "Universal Reference Link", "correta": "nao" },
+              { "texto": "User Resource Language", "correta": "nao" },
+              { "texto": "Unified Read Link", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "Qual destas é uma linguagem de programação?",
+          "pontuação": "2",
+          "alternativas": {
+            "alternativa": [
+              { "texto": "HTML", "correta": "nao" },
+              { "texto": "CSS", "correta": "nao" },
+              { "texto": "JavaScript", "correta": "sim" },
+              { "texto": "XML", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "O que é um navegador?",
+          "pontuação": "2",
+          "alternativas": {
+            "alternativa": [
+              { "texto": "Um tipo de hardware", "correta": "nao" },
+              { "texto": "Um programa para acessar sites", "correta": "sim" },
+              { "texto": "Um banco de dados", "correta": "nao" },
+              { "texto": "Um compilador", "correta": "nao" }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

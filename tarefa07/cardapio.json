@@ -1,0 +1,61 @@
+{
+  "cardapio": {
+    "prato": [
+      {
+        "id": "01",
+        "nome": "Feijoada Simples",
+        "descricao": "Feijão com carnes e temperos tradicionais.",
+        "ingredientes": {
+          "ingrediente": ["Feijão", "Carne seca", "Linguiça"]
+        },
+        "preco": 26.0,
+        "calorias": 820,
+        "tempoPreparo": "95 min"
+      },
+      {
+        "id": "02",
+        "nome": "Hambúrguer Artesanal",
+        "descricao": "Pão, carne, queijo e salada.",
+        "ingredientes": {
+          "ingrediente": ["Pão", "Carne", "Queijo", "Alface"]
+        },
+        "preco": 13.0,
+        "calorias": 680,
+        "tempoPreparo": "30 min"
+      },
+      {
+        "id": "03",
+        "nome": "Pizza Mussarela",
+        "descricao": "Pizza clássica com queijo e molho.",
+        "ingredientes": {
+          "ingrediente": ["Massa", "Queijo", "Molho de tomate"]
+        },
+        "preco": 16.5,
+        "calorias": 720,
+        "tempoPreparo": "32 min"
+      },
+      {
+        "id": "04",
+        "nome": "Salada Verde",
+        "descricao": "Salada leve com vegetais frescos.",
+        "ingredientes": {
+          "ingrediente": ["Alface", "Pepino", "Tomate"]
+        },
+        "preco": 17.5,
+        "calorias": 180,
+        "tempoPreparo": "12 min"
+      },
+      {
+        "id": "05",
+        "nome": "Lasanha de Frango",
+        "descricao": "Lasanha com frango desfiado e queijo.",
+        "ingredientes": {
+          "ingrediente": ["Massa", "Frango", "Queijo"]
+        },
+        "preco": 27.0,
+        "calorias": 800,
+        "tempoPreparo": "55 min"
+      }
+    ]
+  }
+}

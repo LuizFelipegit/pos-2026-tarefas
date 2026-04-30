@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<quiz xmlns="http://quiz.org"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://quiz.org quiz.xsd"
+      versao="1.1">
+    <disciplina>Desenvolvimento Web</disciplina>
+    
+    <professor>
+        <nome>Carlos Silva</nome>
+        <matrícula>654321</matrícula>
+    </professor>
+    
+    <turma>3º Ano A</turma>
+    <data>2026-05-10</data>
+    
+    <questões>
+        
+        <questão>
+            <enunciado>O que significa HTML?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">HyperText Markup Language</alternativa>
+                <alternativa correta="nao">HighText Machine Language</alternativa>
+                <alternativa correta="nao">Hyper Transfer Markup Language</alternativa>
+                <alternativa correta="nao">Home Tool Markup Language</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Para que serve o XML?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Organizar e transportar dados</alternativa>
+                <alternativa correta="nao">Executar sistemas operacionais</alternativa>
+                <alternativa correta="nao">Criar jogos</alternativa>
+                <alternativa correta="nao">Editar imagens</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>O que é um Schema XML?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Um arquivo que define regras do XML</alternativa>
+                <alternativa correta="nao">Um tipo de navegador</alternativa>
+                <alternativa correta="nao">Um banco de dados</alternativa>
+                <alternativa correta="nao">Uma linguagem de estilo</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Qual é uma vantagem do XML?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Flexibilidade na criação de tags</alternativa>
+                <alternativa correta="nao">Uso exclusivo para design</alternativa>
+                <alternativa correta="nao">Não permite estrutura hierárquica</alternativa>
+                <alternativa correta="nao">Só funciona offline</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Qual atributo marca a resposta correta?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">correta</alternativa>
+                <alternativa correta="nao">tipo</alternativa>
+                <alternativa correta="nao">resposta</alternativa>
+                <alternativa correta="nao">valor</alternativa>
+            </alternativas>
+        </questão>
+
+    </questões>
+</quiz>
